@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.nav{
+	width: 90%;
+	height: auto;
+	background-color: white;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 80px;
+	margin: auto;
+	text-align: center;
+}
+
+/*html { 
+  background: url(backgroundimage.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
+.box{
+	width: 450px;
+	background:rgba(0,0,0,0.4);
+	padding: 40px;
+	text-align:center;
+	margin: auto;
+	margin-top: 5%;
+	color: white 
+	font: "century Gothic", sans-serif;
+}
+
+body {
+	background: url(images/hello.jpeg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+
+
+
+
