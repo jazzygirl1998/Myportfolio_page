@@ -41,7 +41,39 @@ body {
 	background-size: cover;
 }
 
-
-
-
+.homeicon {
+	position: absolute;
+    top: 239px;
+    left: 231px;
+}
+.addressicon {
+	position: absolute;
+	top: 426px;
+	left: 237px;
+}
+.childicon {
+	position: absolute;
+	top: 93px;
+	left: 240px;
+}
+.bookicon {
+	position: absolute;
+	bottom: 41px;
+	left: 762px;
+}
+.houseicon {
+	position: absolute;
+	bottom: 41px;
+	left: 836px;
+}
+.gohome {
+	position: absolute;
+	bottom: 41px;
+	left: 624px;
+}
+.mechild{
+	position: absolute;
+	bottom: 43px;
+	left: 533px;
+}
 
