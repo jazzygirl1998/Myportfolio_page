@@ -76,4 +76,15 @@ body {
 	bottom: 43px;
 	left: 533px;
 }
+p.one {
+	text-align: center 
+	border-width: thick;
+	width: 300px;
+	padding: 50px; 
+	position: absolute;
+	border: 20px solid black;
+	bottom: 174px;
+	left: 745px;
+	border color: white;
 
+}
