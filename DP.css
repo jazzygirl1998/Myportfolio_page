@@ -41,50 +41,14 @@ body {
 	background-size: cover;
 }
 
-.homeicon {
-	position: absolute;
-    top: 239px;
-    left: 231px;
-}
-.addressicon {
-	position: absolute;
-	top: 426px;
-	left: 237px;
-}
-.childicon {
-	position: absolute;
-	top: 93px;
-	left: 240px;
-}
-.bookicon {
-	position: absolute;
-	bottom: 41px;
-	left: 762px;
-}
-.houseicon {
-	position: absolute;
-	bottom: 41px;
-	left: 836px;
-}
-.gohome {
-	position: absolute;
-	bottom: 41px;
-	left: 624px;
-}
-.mechild{
-	position: absolute;
-	bottom: 43px;
-	left: 533px;
-}
 p.one {
 	text-align: center 
-	border-width: thick;
 	width: 300px;
-	padding: 50px; 
+	padding: 35px; 
 	position: absolute;
-	border: 20px solid black;
-	bottom: 174px;
-	left: 745px;
-	border color: white;
+	border: 21px solid black;
+	bottom: 120px;
+	left: 747px;
+	shape-margin: white;
 
 }
