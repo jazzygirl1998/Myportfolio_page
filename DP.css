@@ -1,10 +1,11 @@
-*{
+/**{
 	margin: 0;
-	padding: 0;
-}
+	padding: 3px;
+	padding color: black;
+}*/
 
 
-
+/*
 .nav{
 	width: 90%;
 	height: auto;
@@ -17,28 +18,22 @@
 	text-align: center;
 }
 
-/*html { 
-  background: url(backgroundimage.jpeg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-*/
 .box{
 	width: 450px;
 	background:rgba(0,0,0,0.4);
-	padding: 40px;
-	text-align:center;
+	padding: -4px;
+	text-align:left;
 	margin: auto;
-	margin-top: 5%;
+	margin-top: 8%;
 	color: white 
-	font: "century Gothic", sans-serif;
+	
 }
 
 body {
 	background: url(images/hello.jpeg) no-repeat center center fixed;
 	background-size: cover;
+	
+
 }
 
 p.one {
@@ -49,6 +44,7 @@ p.one {
 	border: 21px solid black;
 	bottom: 120px;
 	left: 747px;
-	shape-margin: white;
+	shape-margin: white; 
+}*/
 
-}
+
